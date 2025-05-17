@@ -72,7 +72,7 @@ Download here
 ## 🖼️ Dashboard Preview
 
 📄 [View the full dashboard in PDF](./Loan%20Default%20dashboard.pdf)  
-🔍 Explore the interactive and dynamic dashboard in Power BI here.
+🔍 Explore the interactive and dynamic dashboard in [Power BI here](https://app.powerbi.com/view?r=eyJrIjoiMmM2NTE1YjYtNjdlMC00NDQxLWIzMzUtOTJmZDQ3MGZhNmI4IiwidCI6IjJjZDk3YzU4LTY0ODAtNDEzYS1hNjMyLWI1OTNiMDZkZjgyOCJ9).
  
 ## 💭 So What Can Be Done?
 
@@ -84,4 +84,10 @@ Based on this analysis:
 - ✅ **Strengthen borrower vetting** for mid-income and employed applicants 
 
 
+---
+## 👋 Meet the Analyst
 
+Hi! I’m **Ufuoma Ogeh**, and I love uncovering insights that help people make better decisions. With a background in supply chain inventory management and a passion for data storytelling, I use tools like excel, Power BI and SQL to bring numbers to life.  
+
+📬 Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/uogeh/) | [Email](ufuomaogeh@yahoo.com) | [Portfolio](https://uogeh.github.io/Ufuomaportfolio/) | [Medium post](https://medium.com/@ogehufuoma)

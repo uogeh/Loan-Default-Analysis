@@ -31,7 +31,7 @@ Using a simulated dataset and Power BI, I built a dashboard to unpack the hidden
 Here’s a quick snapshot of the reality:
 
 -  **Default Rate** stands at **10.08%**, representing over **₦125 million** in unpaid loans.
--  
+  ![KPI](image/kpi.png)
 -  **Ages 45–54** carry the highest default rate at **11.17%** — mid-life financial pressure?
 -  
 -  **Home loans** top the risk chart (10.9%), followed closely by **auto and business loans**.

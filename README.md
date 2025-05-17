@@ -32,12 +32,24 @@ Here’s a quick snapshot of the reality:
 
 -  **Default Rate** stands at **10.08%**, representing over **₦125 million** in unpaid loans.
   ![KPI](kpi.png)
+
 -  **Ages 45–54** carry the highest default rate at **11.17%** — mid-life financial pressure?
--  
+  ![default rate](Default by age.png)
+
 -  **Home loans** top the risk chart (10.9%), followed closely by **auto and business loans**.
 -  **Widowed individuals** have the highest default rate by marital status.
+  
+  ![default](Defaultms.png)
+
 -  Surprisingly, **employed individuals** default more often (11.02%) than the unemployed (9.52%) — maybe due to overcommitment?
+  
+   ![default](Defaultes.png)
+
 -  Defaults spike in **April and October**, hinting at financial cycles or external stressors.
+
+   ![Default trend](Defaulttrend.png)
+
+
 -  The **top 3 reasons** for default:  
   - Business failure  
   - Health issues

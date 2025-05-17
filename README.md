@@ -41,6 +41,15 @@ Here’s a quick snapshot of the reality:
   - Health issues
   - Borrowing beyond means
 
+## 💭 So What Can Be Done?
+
+Based on this analysis:
+- ✅ Focus risk assessment on **mid-age borrowers** with high-value home or business loans
+- ✅ Provide **financial literacy programs** to employed customers taking on large credit
+- ✅ Improve early alert systems around **April and October** default spikes
+- ✅ **Revise loan conditions** for high-risk age groups and home/business loan types
+- ✅ **Strengthen borrower vetting** for mid-income and employed applicants 
+
  ---
 
   ## 🔍 How I Analyzed the Data
@@ -74,14 +83,6 @@ Download here
 📄 [View the full dashboard in PDF](./Loan%20Default%20dashboard.pdf)  
 🔍 Explore the interactive and dynamic dashboard in [Power BI here](https://app.powerbi.com/view?r=eyJrIjoiMmM2NTE1YjYtNjdlMC00NDQxLWIzMzUtOTJmZDQ3MGZhNmI4IiwidCI6IjJjZDk3YzU4LTY0ODAtNDEzYS1hNjMyLWI1OTNiMDZkZjgyOCJ9).
  
-## 💭 So What Can Be Done?
-
-Based on this analysis:
-- ✅ Focus risk assessment on **mid-age borrowers** with high-value home or business loans
-- ✅ Provide **financial literacy programs** to employed customers taking on large credit
-- ✅ Improve early alert systems around **April and October** default spikes
-- ✅ **Revise loan conditions** for high-risk age groups and home/business loan types
-- ✅ **Strengthen borrower vetting** for mid-income and employed applicants 
 
 
 ---

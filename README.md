@@ -75,6 +75,8 @@ Download here
    - Default rate  
    - Total loan value vs. payment value  
    - Average overdue months
+   - Average age group
+   - Percentage of payment gap(Paid vs Expected) 
 4. Created **dynamic dashboards** with slicers by region, income, and loan type
 5. Visualized the **default timeline** and **root causes**
  

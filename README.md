@@ -34,9 +34,11 @@ Here’s a quick snapshot of the reality:
   ![KPI](kpi.png)
 
 -  **Ages 45–54** carry the highest default rate at **11.17%** — mid-life financial pressure?
-  ![default rate](Default by age.png)
+  ![default rate](Defaul_by_age.png)
 
--  **Home loans** top the risk chart (10.9%), followed closely by **auto and business loans**.
+-  **Auto loans** top the risk chart (10.17%), followed closely by **business and Education loans**.
+       ![default rate](Defaulbylt.png)    
+
 -  **Widowed individuals** have the highest default rate by marital status.
   
   ![default](Defaultms.png)
@@ -54,6 +56,8 @@ Here’s a quick snapshot of the reality:
   - Business failure  
   - Health issues
   - Borrowing beyond means
+
+                ![Default reason](Defaultreason.png)
 
 ##  So What Can Be Done?
 
